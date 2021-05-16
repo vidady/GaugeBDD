@@ -1,0 +1,11 @@
+[
+	"gauge",
+	"run",
+	"--tags",
+	"test",
+	"--parallel",
+	"-n",
+	"2",
+	"--dir=C:\\Work\\GAUGE",
+	"C:\\Work\\GAUGE\\specs"
+]

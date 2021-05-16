@@ -1,0 +1,67 @@
+{"logLevel":"debug","message":"multithreading is set to true"}
+{"logLevel":"debug","message":"multithreading enabled, number of threads=2"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 662milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 662"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 53461"}
+{"logLevel":"info","message":"Listening on port:53461"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.implementation1' and 'web.steps.HomepageSteps.implementation1'"}
+{"logLevel":"debug","message":"Found Open the Gauge homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.gotoGetStartedPage' and 'web.steps.HomepageSteps.gotoGetStartedPage'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.stepFail' and 'web.steps.HomepageSteps.stepFail'"}
+{"logLevel":"debug","message":"Found Step Fail in current project scope."}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.ensureInstallationInstructionsAreAvailable' and 'web.steps.HomepageSteps.ensureInstallationInstructionsAreAvailable'"}
+{"logLevel":"debug","message":"Found Ensure installation instructions are available in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tOpen the Gauge homepage : public void implementation1()"}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void gotoGetStartedPage()"}
+{"logLevel":"debug","message":"\tStep Fail : public void stepFail()"}
+{"logLevel":"debug","message":"\tEnsure installation instructions are available : public void ensureInstallationInstructionsAreAvailable()"}
+1610381091956	geckodriver	INFO	Listening on 127.0.0.1:38869
+1610381092241	geckodriver	INFO	Listening on 127.0.0.1:19583
+1610381092536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVEK\\AppData\\Local\\Temp\\rust_mozprofileSjr0NK"
+1610381093191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIVEK\\AppData\\Local\\Temp\\rust_mozprofile1VeUdJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1610381113429	Marionette	INFO	Listening on port 53475
+1610381113429	Marionette	INFO	Listening on port 53470
+1610381114543	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 11, 2021 9:35:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1610381115244	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 11, 2021 9:35:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Open the Gauge homepage' using 'class web.steps.HomepageSteps.implementation1"}
+{"logLevel":"debug","message":"Executing 'Open the Gauge homepage' using 'class web.steps.HomepageSteps.implementation1"}
+Navigated to url: https://gauge.org/{"logLevel":"debug","message":"Executing 'Go to Gauge Get Started Page' using 'class web.steps.HomepageSteps.gotoGetStartedPage"}
+Element identified: [[FirefoxDriver: firefox on WINDOWS (152c92fd-bb24-49be-b317-93a7ddc0571f)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]Element identified: [[FirefoxDriver: firefox on WINDOWS (152c92fd-bb24-49be-b317-93a7ddc0571f)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]Navigated to url: https://gauge.org/{"logLevel":"debug","message":"Executing 'Go to Gauge Get Started Page' using 'class web.steps.HomepageSteps.gotoGetStartedPage"}
+Element identified: [[FirefoxDriver: firefox on WINDOWS (8e5c554e-8057-49a0-94bc-0e12f92d8f2a)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]Element identified: [[FirefoxDriver: firefox on WINDOWS (8e5c554e-8057-49a0-94bc-0e12f92d8f2a)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]Clicked on element: [[FirefoxDriver: firefox on WINDOWS (8e5c554e-8057-49a0-94bc-0e12f92d8f2a)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]{"logLevel":"debug","message":"Executing 'Ensure installation instructions are available' using 'class web.steps.HomepageSteps.ensureInstallationInstructionsAreAvailable"}
+Clicked on element: [[FirefoxDriver: firefox on WINDOWS (152c92fd-bb24-49be-b317-93a7ddc0571f)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]{"logLevel":"debug","message":"Executing 'Ensure installation instructions are available' using 'class web.steps.HomepageSteps.ensureInstallationInstructionsAreAvailable"}
+{"logLevel":"debug","message":"Executing 'Step Fail' using 'class web.steps.HomepageSteps.stepFail"}
+1610381129110	Marionette	INFO	Stopped listening on port 53470
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610381136177	Marionette	INFO	Stopped listening on port 53475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

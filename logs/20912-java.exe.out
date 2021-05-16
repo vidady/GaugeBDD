@@ -1,0 +1,55 @@
+{"logLevel":"debug","message":"multithreading is set to true"}
+{"logLevel":"debug","message":"multithreading enabled, number of threads=2"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 693milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 693"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 62011"}
+{"logLevel":"info","message":"Listening on port:62011"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.implementation1' and 'web.steps.HomepageSteps.implementation1'"}
+{"logLevel":"debug","message":"Found Open the Gauge homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.gotoGetStartedPage' and 'web.steps.HomepageSteps.gotoGetStartedPage'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.stepFail' and 'web.steps.HomepageSteps.stepFail'"}
+{"logLevel":"debug","message":"Found Step Fail in current project scope."}
+{"logLevel":"debug","message":"Comparing 'web.steps.HomepageSteps.ensureInstallationInstructionsAreAvailable' and 'web.steps.HomepageSteps.ensureInstallationInstructionsAreAvailable'"}
+{"logLevel":"debug","message":"Found Ensure installation instructions are available in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tOpen the Gauge homepage : public void implementation1()"}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void gotoGetStartedPage()"}
+{"logLevel":"debug","message":"\tStep Fail : public void stepFail()"}
+{"logLevel":"debug","message":"\tEnsure installation instructions are available : public void ensureInstallationInstructionsAreAvailable()"}
+SStatratritnign gC hCrhormoemDerDirvievre r8 78.70..04.248208.08.88 8( 8(98e92e328308a03ae33e63c63c436446b45bd5dd1d310320324394b1382549290d-refs/branch-heads/4280@{#1761}) on port 28027
+Only loca9lb 1c3o8n2n5e4c9t2i9o0nds- raerfes /ablrlaonwcehd-.he
+Pladesa/s4e2 8s0e@e{ #h1t76t1p}s): /o/nc hproormte d3r8i1v9er
+Only lo.caclh rcoomninuemc.toirogn/ss eacruer ialtlyo-wceodn.si
+Pldeaeser asteieo nhst tfposr: /s/ucghgreosmteidornisv eorn. ckhereopmiinugm .Cohrrgo/mseeDcruirvietry -scaofnes.id
+erations for suggestions on keeping ChromeDriver safe.
+CChhrroommeeDDrriivveerr  wwaass  ssttaarrtteedd  ssuucccceessssffuullllyy..
+
+Jan 20, 2021 3:24:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 20, 2021 3:24:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Open the Gauge homepage' using 'class web.steps.HomepageSteps.implementation1"}
+{"logLevel":"debug","message":"Executing 'Open the Gauge homepage' using 'class web.steps.HomepageSteps.implementation1"}
+Navigated to url: https://gauge.org/{"logLevel":"debug","message":"Executing 'Go to Gauge Get Started Page' using 'class web.steps.HomepageSteps.gotoGetStartedPage"}
+Element identified: [[ChromeDriver: chrome on WINDOWS (7a8361379506616295b2f0512343d23e)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]Element identified: [[ChromeDriver: chrome on WINDOWS (7a8361379506616295b2f0512343d23e)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]Navigated to url: https://gauge.org/{"logLevel":"debug","message":"Executing 'Go to Gauge Get Started Page' using 'class web.steps.HomepageSteps.gotoGetStartedPage"}
+Element identified: [[ChromeDriver: chrome on WINDOWS (64912591899e9ecf65bc27edb59c03cc)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]Element identified: [[ChromeDriver: chrome on WINDOWS (64912591899e9ecf65bc27edb59c03cc)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']][1611136476.786][SEVERE]: Timed out receiving message from renderer: 10.000
+[1611136476.788][SEVERE]: Timed out receiving message from renderer: 10.000
+Clicked on element: [[ChromeDriver: chrome on WINDOWS (64912591899e9ecf65bc27edb59c03cc)] -> xpath: //a[@href='https://docs.gauge.org/getting_started/installing-gauge.html']]{"logLevel":"debug","message":"Executing 'Ensure installation instructions are available' using 'class web.steps.HomepageSteps.ensureInstallationInstructionsAreAvailable"}
+{"logLevel":"debug","message":"Executing 'Step Fail' using 'class web.steps.HomepageSteps.stepFail"}
+[1611136487.809][SEVERE]: Timed out receiving message from renderer: 10.000
+[1611136487.809][WARNING]: screenshot failed, retrying timeout: Timed out receiving message from renderer: 10.000
+[1611136488.921][SEVERE]: Timed out receiving message from renderer: 10.000
+[1611136488.921][WARNING]: screenshot failed, retrying timeout: Timed out receiving message from renderer: 10.000
+[1611136497.809][SEVERE]: Timed out receiving message from renderer: 10.000
+[1611136498.921][SEVERE]: Timed out receiving message from renderer: 10.000

@@ -1,0 +1,421 @@
+05-01-2021 21:14:28.643 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+05-01-2021 21:14:28.644 [Gauge] [DEBUG] Found 1 files
+05-01-2021 21:14:28.645 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+05-01-2021 21:14:28.646 [Gauge] [INFO] Initializing specs cache with 1 specs
+05-01-2021 21:14:28.646 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+05-01-2021 21:14:28.646 [Gauge] [INFO] Initializing web.steps cache with 1 web.steps
+05-01-2021 21:14:28.646 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55493
+05-01-2021 21:14:29.469 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+05-01-2021 21:14:29.482 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:2 error:<error:"Plugin 'java' not installed on following locations : [C:\\Users\\VIVEK\\AppData\\Roaming\\gauge\\plugins]" > 
+05-01-2021 21:20:46.929 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+05-01-2021 21:20:46.930 [Gauge] [DEBUG] Found 1 files
+05-01-2021 21:20:46.932 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+05-01-2021 21:20:46.933 [Gauge] [INFO] Initializing specs cache with 1 specs
+05-01-2021 21:20:46.933 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+05-01-2021 21:20:46.933 [Gauge] [INFO] Initializing web.steps cache with 1 web.steps
+05-01-2021 21:20:46.933 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55595
+05-01-2021 21:27:08.154 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+05-01-2021 21:27:08.154 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+05-01-2021 21:27:08.261 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+05-01-2021 21:27:08.263 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+05-01-2021 21:27:08.263 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+05-01-2021 21:27:08.263 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+09-01-2021 21:24:07.506 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+09-01-2021 21:24:07.618 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-01-2021 21:24:07.677 [Gauge] [DEBUG] Found 1 files
+09-01-2021 21:24:07.678 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-01-2021 21:24:07.678 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+09-01-2021 21:24:07.678 [Gauge] [INFO] Initializing web.steps cache with 1 web.steps
+09-01-2021 21:24:07.678 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50861
+09-01-2021 21:25:31.245 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+09-01-2021 21:25:31.246 [Gauge] [DEBUG] Found 1 files
+09-01-2021 21:25:31.253 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+09-01-2021 21:25:31.257 [Gauge] [INFO] Initializing specs cache with 1 specs
+09-01-2021 21:25:31.257 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+09-01-2021 21:25:31.257 [Gauge] [INFO] Initializing web.steps cache with 1 web.steps
+09-01-2021 21:25:31.257 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50931
+09-01-2021 21:30:56.965 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+09-01-2021 21:30:56.965 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+09-01-2021 21:30:57.435 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+09-01-2021 21:30:57.435 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+09-01-2021 21:30:57.449 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+09-01-2021 21:30:57.449 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+09-01-2021 21:31:32.174 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:31:32.174 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:31:32.175 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:32:26.055 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+09-01-2021 21:32:26.097 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+09-01-2021 21:32:35.981 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:32:36.016 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:35:41.939 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:35:41.978 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:35:41.989 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+09-01-2021 21:35:42.035 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+09-01-2021 21:38:08.291 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+09-01-2021 21:38:08.291 [Gauge] [DEBUG] Found 0 files
+09-01-2021 21:38:17.848 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+09-01-2021 21:38:35.028 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+09-01-2021 21:38:35.046 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Work\GAUGE\specs\concept\common.cpt:1 Concept should have atleast one step => 'Common step']
+09-01-2021 21:38:35.046 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+09-01-2021 21:38:35.046 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Work\GAUGE\specs\concept\common.cpt:1 Concept should have atleast one step => 'Common step']
+09-01-2021 21:38:46.110 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Common step" > 
+09-01-2021 21:38:46.110 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > > 
+09-01-2021 21:38:46.342 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Common step" > 
+09-01-2021 21:38:46.349 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > > 
+09-01-2021 21:38:49.551 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:38:49.616 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+09-01-2021 21:38:49.627 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+09-01-2021 21:38:49.657 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+09-01-2021 21:39:34.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Go to Gauge Get Started Page" > 
+09-01-2021 21:39:34.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Go to Gauge Get Started Page" parameterizedStepValue:"* Go to Gauge Get Started Page" > > 
+09-01-2021 21:39:34.015 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Ensure installation instructions are available" > 
+09-01-2021 21:39:34.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Ensure installation instructions are available" parameterizedStepValue:"* Ensure installation instructions are available" > > 
+10-01-2021 14:07:06.209 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+10-01-2021 14:07:06.215 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+10-01-2021 14:07:06.220 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+10-01-2021 14:07:06.221 [Gauge] [DEBUG] Found 3 files
+10-01-2021 14:07:06.221 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+10-01-2021 14:07:06.221 [Gauge] [DEBUG] Found 1 files
+10-01-2021 14:07:06.221 [Gauge] [INFO] Initializing specs cache with 2 specs
+10-01-2021 14:07:06.221 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+10-01-2021 14:07:06.221 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+10-01-2021 14:07:06.222 [Gauge] [INFO] Initializing web.steps cache with 3 web.steps
+10-01-2021 14:07:06.222 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50615
+10-01-2021 15:03:59.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+10-01-2021 15:03:59.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+10-01-2021 15:03:59.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+10-01-2021 15:03:59.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+10-01-2021 15:03:59.997 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+10-01-2021 15:04:00.006 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+10-01-2021 15:04:01.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Common step" > 
+10-01-2021 15:04:01.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > > 
+10-01-2021 15:04:01.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Common step" > 
+10-01-2021 15:04:01.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > > 
+10-01-2021 15:04:21.708 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 15:04:21.728 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 15:06:06.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Go to Gauge Get Started Page" > 
+10-01-2021 15:06:06.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Go to Gauge Get Started Page" parameterizedStepValue:"* Go to Gauge Get Started Page" > > 
+10-01-2021 15:06:06.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Ensure installation instructions are available" > 
+10-01-2021 15:06:06.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Ensure installation instructions are available" parameterizedStepValue:"* Ensure installation instructions are available" > > 
+10-01-2021 15:35:44.457 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+10-01-2021 15:35:44.775 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example2.spec
+10-01-2021 15:35:44.778 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 15:35:44.835 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 17:02:09.303 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 17:02:09.349 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 17:02:10.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.245 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.382 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.386 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.418 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.424 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.426 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.458 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.482 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.482 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.492 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.492 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.493 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.493 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.510 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.525 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.542 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.556 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.557 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.558 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.612 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.612 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.629 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.638 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.638 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.638 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.638 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.638 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+10-01-2021 17:02:10.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+10-01-2021 17:02:10.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"S" > 
+10-01-2021 17:02:10.862 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"S" parameterizedStepValue:"S" > > 
+10-01-2021 17:02:10.945 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-01-2021 17:02:10.953 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > allSteps:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > allSteps:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+10-01-2021 17:02:10.970 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-01-2021 17:02:10.978 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > filepath:"C:\\Work\\GAUGE\\specs\\concept\\common.cpt" lineNumber:1 > > 
+10-01-2021 17:02:11.114 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"St" > 
+10-01-2021 17:02:11.121 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"St" parameterizedStepValue:"St" > > 
+10-01-2021 17:02:11.283 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ste" > 
+10-01-2021 17:02:11.283 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ste" parameterizedStepValue:"Ste" > > 
+10-01-2021 17:02:11.399 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step" > 
+10-01-2021 17:02:11.408 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step" parameterizedStepValue:"Step" > > 
+10-01-2021 17:02:12.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step F" > 
+10-01-2021 17:02:12.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step F" parameterizedStepValue:"Step F" > > 
+10-01-2021 17:02:12.310 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-01-2021 17:02:12.312 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > allSteps:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > allSteps:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+10-01-2021 17:02:12.312 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-01-2021 17:02:12.312 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > filepath:"C:\\Work\\GAUGE\\specs\\concept\\common.cpt" lineNumber:1 > > 
+10-01-2021 17:02:12.312 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+10-01-2021 17:02:12.312 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > allSteps:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > allSteps:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+10-01-2021 17:02:12.313 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+10-01-2021 17:02:12.313 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > filepath:"C:\\Work\\GAUGE\\specs\\concept\\common.cpt" lineNumber:1 > > 
+10-01-2021 17:02:12.449 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step Fa" > 
+10-01-2021 17:02:12.449 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step Fa" parameterizedStepValue:"Step Fa" > > 
+10-01-2021 17:02:13.066 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step Fai" > 
+10-01-2021 17:02:13.075 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step Fai" parameterizedStepValue:"Step Fai" > > 
+10-01-2021 17:02:13.304 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step Fail" > 
+10-01-2021 17:02:13.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step Fail" parameterizedStepValue:"Step Fail" > > 
+10-01-2021 17:02:53.567 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 17:02:53.678 [Gauge] [INFO] Spec file added / modified: C:\Work\GAUGE\specs\example.spec
+10-01-2021 21:12:18.241 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+10-01-2021 21:12:18.241 [Gauge] [DEBUG] Found 3 files
+10-01-2021 21:12:18.241 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+10-01-2021 21:12:18.241 [Gauge] [DEBUG] Found 1 files
+10-01-2021 21:12:18.338 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+10-01-2021 21:12:18.338 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+10-01-2021 21:12:18.339 [Gauge] [INFO] Initializing specs cache with 2 specs
+10-01-2021 21:12:18.339 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+10-01-2021 21:12:18.339 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+10-01-2021 21:12:18.339 [Gauge] [INFO] Initializing web.steps cache with 3 web.steps
+10-01-2021 21:12:18.339 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55496
+11-01-2021 19:14:21.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+11-01-2021 19:14:21.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+11-01-2021 19:14:21.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+11-01-2021 19:14:21.566 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+11-01-2021 19:14:21.598 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+11-01-2021 19:14:21.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+11-01-2021 19:14:21.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Step Fail" > 
+11-01-2021 19:14:21.609 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Step Fail" parameterizedStepValue:"Step Fail" > > 
+11-01-2021 19:14:21.971 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Go to Gauge Get Started Page" > 
+11-01-2021 19:14:21.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Go to Gauge Get Started Page" parameterizedStepValue:"* Go to Gauge Get Started Page" > > 
+11-01-2021 19:14:21.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Ensure installation instructions are available" > 
+11-01-2021 19:14:21.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Ensure installation instructions are available" parameterizedStepValue:"* Ensure installation instructions are available" > > 
+11-01-2021 19:14:21.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Common step" > 
+11-01-2021 19:14:21.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Common step" parameterizedStepValue:"Common step" > > 
+16-01-2021 16:19:36.221 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+16-01-2021 16:19:36.428 [Gauge] [DEBUG] Found 3 files
+16-01-2021 16:19:36.428 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+16-01-2021 16:19:36.428 [Gauge] [DEBUG] Found 1 files
+16-01-2021 16:19:36.863 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+16-01-2021 16:19:36.863 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+16-01-2021 16:19:36.955 [Gauge] [INFO] Initializing specs cache with 2 specs
+16-01-2021 16:19:36.955 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+16-01-2021 16:19:36.955 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+16-01-2021 16:19:36.955 [Gauge] [INFO] Initializing steps cache with 3 steps
+16-01-2021 16:19:36.955 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53289
+16-01-2021 22:40:31.683 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+16-01-2021 22:40:31.724 [Gauge] [DEBUG] Found 3 files
+16-01-2021 22:40:31.724 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+16-01-2021 22:40:31.724 [Gauge] [DEBUG] Found 1 files
+16-01-2021 22:40:31.914 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+16-01-2021 22:40:31.914 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+16-01-2021 22:40:31.915 [Gauge] [INFO] Initializing specs cache with 2 specs
+16-01-2021 22:40:31.915 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+16-01-2021 22:40:31.915 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+16-01-2021 22:40:31.915 [Gauge] [INFO] Initializing steps cache with 3 steps
+16-01-2021 22:40:31.915 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56149
+17-01-2021 00:11:27.824 [Gauge] [INFO] Closing connection [127.0.0.1:56150] cause: read tcp 127.0.0.1:56149->127.0.0.1:56150: wsarecv: An existing connection was forcibly closed by the remote host.
+17-01-2021 00:11:27.899 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 9024 has terminated.
+17-01-2021 15:59:11.627 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+17-01-2021 15:59:11.692 [Gauge] [DEBUG] Found 3 files
+17-01-2021 15:59:11.692 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+17-01-2021 15:59:11.692 [Gauge] [DEBUG] Found 1 files
+17-01-2021 15:59:11.977 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+17-01-2021 15:59:11.977 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+17-01-2021 15:59:11.993 [Gauge] [INFO] Initializing specs cache with 2 specs
+17-01-2021 15:59:11.993 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+17-01-2021 15:59:11.993 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+17-01-2021 15:59:11.993 [Gauge] [INFO] Initializing steps cache with 3 steps
+17-01-2021 15:59:11.993 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58469
+19-01-2021 20:17:10.473 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+19-01-2021 20:17:10.546 [Gauge] [DEBUG] Found 3 files
+19-01-2021 20:17:10.547 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+19-01-2021 20:17:10.547 [Gauge] [DEBUG] Found 1 files
+19-01-2021 20:17:10.882 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+19-01-2021 20:17:10.882 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+19-01-2021 20:17:10.891 [Gauge] [INFO] Initializing specs cache with 2 specs
+19-01-2021 20:17:10.891 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+19-01-2021 20:17:10.891 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+19-01-2021 20:17:10.891 [Gauge] [INFO] Initializing steps cache with 3 steps
+19-01-2021 20:17:10.891 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57538
+20-01-2021 15:12:33.112 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+20-01-2021 15:12:33.112 [Gauge] [DEBUG] Found 3 files
+20-01-2021 15:12:33.112 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+20-01-2021 15:12:33.112 [Gauge] [DEBUG] Found 1 files
+20-01-2021 15:12:33.262 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+20-01-2021 15:12:33.262 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+20-01-2021 15:12:33.270 [Gauge] [INFO] Initializing specs cache with 2 specs
+20-01-2021 15:12:33.270 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+20-01-2021 15:12:33.270 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+20-01-2021 15:12:33.270 [Gauge] [INFO] Initializing steps cache with 3 steps
+20-01-2021 15:12:33.270 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61716
+31-01-2021 17:02:33.059 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+31-01-2021 17:02:33.138 [Gauge] [DEBUG] Found 3 files
+31-01-2021 17:02:33.138 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+31-01-2021 17:02:33.138 [Gauge] [DEBUG] Found 1 files
+31-01-2021 17:02:33.463 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+31-01-2021 17:02:33.463 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+31-01-2021 17:02:33.464 [Gauge] [INFO] Initializing specs cache with 2 specs
+31-01-2021 17:02:33.464 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+31-01-2021 17:02:33.464 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+31-01-2021 17:02:33.464 [Gauge] [INFO] Initializing steps cache with 3 steps
+31-01-2021 17:02:33.464 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51367
+31-01-2021 20:03:22.479 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+31-01-2021 20:03:22.514 [Gauge] [DEBUG] Found 3 files
+31-01-2021 20:03:22.514 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+31-01-2021 20:03:22.515 [Gauge] [DEBUG] Found 1 files
+31-01-2021 20:03:22.950 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+31-01-2021 20:03:22.950 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+31-01-2021 20:03:22.951 [Gauge] [INFO] Initializing specs cache with 2 specs
+31-01-2021 20:03:22.951 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+31-01-2021 20:03:22.951 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+31-01-2021 20:03:22.951 [Gauge] [INFO] Initializing steps cache with 3 steps
+31-01-2021 20:03:22.951 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53476
+31-01-2021 21:31:25.799 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+31-01-2021 21:31:25.823 [Gauge] [DEBUG] Found 3 files
+31-01-2021 21:31:25.824 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+31-01-2021 21:31:25.824 [Gauge] [DEBUG] Found 1 files
+31-01-2021 21:31:25.938 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+31-01-2021 21:31:25.938 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+31-01-2021 21:31:25.940 [Gauge] [INFO] Initializing specs cache with 2 specs
+31-01-2021 21:31:25.940 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+31-01-2021 21:31:25.940 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+31-01-2021 21:31:25.940 [Gauge] [INFO] Initializing steps cache with 3 steps
+31-01-2021 21:31:25.940 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50633
+31-01-2021 22:29:38.200 [Gauge] [INFO] Closing connection [127.0.0.1:50634] cause: read tcp 127.0.0.1:50633->127.0.0.1:50634: wsarecv: An existing connection was forcibly closed by the remote host.
+31-01-2021 22:29:38.304 [Gauge] [CRITICAL] Killing Gauge daemon. Parent process with pid 13392 has terminated.
+05-02-2021 20:40:24.145 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+05-02-2021 20:40:24.171 [Gauge] [DEBUG] Found 3 files
+05-02-2021 20:40:24.171 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+05-02-2021 20:40:24.172 [Gauge] [DEBUG] Found 1 files
+05-02-2021 20:40:24.398 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+05-02-2021 20:40:24.398 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+05-02-2021 20:40:24.401 [Gauge] [INFO] Initializing specs cache with 2 specs
+05-02-2021 20:40:24.401 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+05-02-2021 20:40:24.401 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+05-02-2021 20:40:24.401 [Gauge] [INFO] Initializing steps cache with 3 steps
+05-02-2021 20:40:24.448 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51643
+05-02-2021 21:44:17.287 [Gauge] [INFO] Closing connection [127.0.0.1:51644] cause: read tcp 127.0.0.1:51643->127.0.0.1:51644: wsarecv: An existing connection was forcibly closed by the remote host.
+06-02-2021 12:10:51.013 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+06-02-2021 12:10:51.014 [Gauge] [DEBUG] Found 3 files
+06-02-2021 12:10:51.014 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+06-02-2021 12:10:51.014 [Gauge] [DEBUG] Found 1 files
+06-02-2021 12:10:51.051 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+06-02-2021 12:10:51.051 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+06-02-2021 12:10:51.052 [Gauge] [INFO] Initializing specs cache with 2 specs
+06-02-2021 12:10:51.052 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+06-02-2021 12:10:51.052 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+06-02-2021 12:10:51.052 [Gauge] [INFO] Initializing steps cache with 3 steps
+06-02-2021 12:10:51.052 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50599
+15-02-2021 16:55:09.019 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+15-02-2021 16:55:09.078 [Gauge] [DEBUG] Found 3 files
+15-02-2021 16:55:09.078 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+15-02-2021 16:55:09.078 [Gauge] [DEBUG] Found 1 files
+15-02-2021 16:55:09.186 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+15-02-2021 16:55:09.186 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+15-02-2021 16:55:09.187 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-02-2021 16:55:09.187 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+15-02-2021 16:55:09.187 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+15-02-2021 16:55:09.187 [Gauge] [INFO] Initializing steps cache with 3 steps
+15-02-2021 16:55:09.187 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54961
+18-03-2021 18:19:19.864 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+18-03-2021 18:19:19.896 [Gauge] [DEBUG] Found 3 files
+18-03-2021 18:19:19.896 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+18-03-2021 18:19:19.896 [Gauge] [DEBUG] Found 1 files
+18-03-2021 18:19:20.005 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+18-03-2021 18:19:20.005 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+18-03-2021 18:19:20.005 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+18-03-2021 18:19:20.090 [Gauge] [INFO] Initializing specs cache with 2 specs
+18-03-2021 18:19:20.090 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+18-03-2021 18:19:20.090 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+18-03-2021 18:19:20.293 [Gauge] [INFO] Initializing steps cache with 3 steps
+18-03-2021 18:19:20.293 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56168
+08-04-2021 21:52:45.033 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+08-04-2021 21:52:45.050 [Gauge] [DEBUG] Found 3 files
+08-04-2021 21:52:45.050 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+08-04-2021 21:52:45.051 [Gauge] [DEBUG] Found 1 files
+08-04-2021 21:52:45.213 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+08-04-2021 21:52:45.213 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+08-04-2021 21:52:45.213 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+17-04-2021 16:12:42.655 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+17-04-2021 16:12:42.790 [Gauge] [DEBUG] Found 3 files
+17-04-2021 16:12:42.790 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+17-04-2021 16:12:42.790 [Gauge] [DEBUG] Found 1 files
+17-04-2021 16:12:42.943 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+17-04-2021 16:12:42.943 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+17-04-2021 16:12:42.943 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+28-04-2021 21:01:46.186 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+28-04-2021 21:01:46.290 [Gauge] [DEBUG] Found 3 files
+28-04-2021 21:01:46.294 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+28-04-2021 21:01:46.294 [Gauge] [DEBUG] Found 1 files
+28-04-2021 21:01:46.423 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-04-2021 21:01:46.423 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+28-04-2021 21:01:46.423 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+02-05-2021 10:18:40.410 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+02-05-2021 10:18:40.497 [Gauge] [DEBUG] Found 3 files
+02-05-2021 10:18:40.498 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+02-05-2021 10:18:40.498 [Gauge] [DEBUG] Found 1 files
+02-05-2021 10:18:40.599 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+02-05-2021 10:18:40.599 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+02-05-2021 10:18:40.599 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+13-05-2021 16:51:26.866 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+13-05-2021 16:51:26.908 [Gauge] [DEBUG] Found 3 files
+13-05-2021 16:51:26.908 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+13-05-2021 16:51:26.908 [Gauge] [DEBUG] Found 1 files
+13-05-2021 16:51:27.178 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+13-05-2021 16:51:27.178 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+13-05-2021 16:51:27.178 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+13-05-2021 17:52:28.808 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+13-05-2021 17:52:28.808 [Gauge] [DEBUG] Found 3 files
+13-05-2021 17:52:28.808 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+13-05-2021 17:52:28.808 [Gauge] [DEBUG] Found 1 files
+13-05-2021 17:52:28.814 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+13-05-2021 17:52:28.814 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+13-05-2021 17:52:28.814 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+15-05-2021 18:34:43.186 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+15-05-2021 18:34:43.216 [Gauge] [DEBUG] Found 3 files
+15-05-2021 18:34:43.216 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+15-05-2021 18:34:43.217 [Gauge] [DEBUG] Found 1 files
+15-05-2021 18:34:43.574 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+15-05-2021 18:34:43.574 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+15-05-2021 18:34:43.574 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt
+15-05-2021 18:34:43.593 [Gauge] [INFO] Initializing specs cache with 2 specs
+15-05-2021 18:34:43.593 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example2.spec
+15-05-2021 18:34:43.593 [Gauge] [DEBUG] Adding specs from C:\Work\GAUGE\specs\example.spec
+15-05-2021 18:34:43.619 [Gauge] [INFO] Initializing steps cache with 3 steps
+15-05-2021 18:34:43.619 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56076
+15-05-2021 21:22:04.618 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs
+15-05-2021 21:22:04.619 [Gauge] [DEBUG] Found 3 files
+15-05-2021 21:22:04.619 [Gauge] [INFO] Watching directory: C:\Work\GAUGE\specs\concept
+15-05-2021 21:22:04.619 [Gauge] [DEBUG] Found 1 files
+15-05-2021 21:22:04.625 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+15-05-2021 21:22:04.625 [Gauge] [DEBUG] Adding concepts from C:\Work\GAUGE\specs\concept\common.cpt
+15-05-2021 21:22:04.625 [Gauge] [INFO] Concept file added / modified: C:\Work\GAUGE\specs\concept\common.cpt

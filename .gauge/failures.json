@@ -3,12 +3,10 @@
 		"run",
 		"--tags",
 		"test",
-		"--parallel",
-		"-n",
-		"2",
 		"--dir=C:\\Work\\GAUGE"
 	],
 	"FailedItems": [
+		"specs\\example.spec:19",
 		"specs\\example.spec:9"
 	]
 }

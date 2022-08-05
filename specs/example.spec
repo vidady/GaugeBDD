@@ -6,9 +6,22 @@ To execute this specification, use `mvn test`
 
 * Open the Gauge homepage
 
-Get Started 1
+First Scenario of spec 1
 -----------
 Tags: test
 * Go to Gauge Get Started Page
 * Ensure installation instructions are available
 * Step Fail
+
+
+
+
+Second scenario of spec 1
+-----------
+Tags: test
+* Go to Gauge Get Started Page
+* Ensure installation instructions are available
+* Step Fail
+
+
+

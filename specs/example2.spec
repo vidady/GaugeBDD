@@ -6,7 +6,7 @@ To execute this specification, use `mvn test`
 
 * Open the Gauge homepage
 
-Get Started 2
+First Scenario of spec 2
 -----------
 Tags: test
 * Common step

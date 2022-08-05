@@ -18,8 +18,10 @@ public class ExtentTestManager {
 
     public static ThreadLocal<ExtentTest> testReport = new ThreadLocal<>();
     ExtentReports extent = ExtentManager.getInstance();
-    ExtentTest testScenario;
-    ExtentTest testSpec;
+    public static ThreadLocal<ExtentTest> testScenario = new ThreadLocal<>();
+
+    //ExtentTest testScenario;
+    public static ThreadLocal<ExtentTest> testSpec = new ThreadLocal<>();
     static Date date = new Date();
 
     public static synchronized ExtentTest getTest() {
@@ -27,15 +29,15 @@ public class ExtentTestManager {
     }
 
     public synchronized void testStart(String testName) {
-//        testScenario=extent.createTest(testName);
 
-        testScenario = testSpec.createNode(testName);
+        testScenario.set(testSpec.get().createNode(testName));
+        //testScenario = testSpec.get().createNode(testName);
 
-        testReport.set(testScenario);
+        testReport.set(testScenario.get());
     }
 
     public synchronized void specStart(String specName) {
-        testSpec = extent.createTest(specName);
+        testSpec.set(extent.createTest(specName));
 
     }
 

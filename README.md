@@ -31,3 +31,9 @@ Read more about [Step implementations in Java](http://getgauge.io/documentation/
 ```
 mvn test
 ```
+
+* For Parallel Execution of spec files as:
+
+```
+mvn -Dtags=test -DinParallel=false clean compile test
+```
